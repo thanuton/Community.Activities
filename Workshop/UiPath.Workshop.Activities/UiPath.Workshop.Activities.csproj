@@ -49,6 +49,7 @@
       <Link>Properties\WorkshopAssemblyInfo.cs</Link>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScopeSnippet.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UiPath.Workshop\UiPath.Workshop.csproj">
