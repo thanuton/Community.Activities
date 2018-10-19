@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InvokeJava">
+    <output-path>$PROJECT_DIR$/artifacts</output-path>
+    <root id="archive" name="InvokeJava.jar">
+      <element id="module-output" name="Invoke" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-20080701.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

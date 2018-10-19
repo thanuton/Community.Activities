@@ -8,7 +8,8 @@
     <owners>bogdan.popescu</owners>
     <projectUrl>https://github.com/UiPath/Community.Activities</projectUrl>
     <iconUrl>http://www.uipath.com/favicon.ico</iconUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://www.uipath.com/hubfs/legalspot/UiPath_EULA.pdf</licenseUrl>
     <description>Interacts with Google Spreadsheet by calling Google API.</description>
   </metadata>
 </package>
